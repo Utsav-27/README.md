@@ -14,6 +14,7 @@ I try to delve myself in learnings where I merge different technologies in a sam
 
 ```yaml
 Languages: C,C++, Python, Bash Scripting
+AI Stack: Machine Learning, Statistics, Deep Learning
 Embedded tech: Atmega AVR, PIC18, ESP32, NodeMCU, Raspberry PI, x8051
 Embedded Software: Robot Operating Systems (ROS), ROS2, Gazebo
 
